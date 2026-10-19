@@ -1,0 +1,7 @@
+{
+  "name": "Last.fm",
+  "description": "Displays your Last.fm data<br>requires a username and an API key",
+  "version": "0.1",
+  "emoji": "🎵",
+  "files": ["__init__.py", "code.py", "lastfm.html"]
+}
